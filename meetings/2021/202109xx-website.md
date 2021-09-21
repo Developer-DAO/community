@@ -1,0 +1,98 @@
+<h1>Developer DAO Website 2021-09-xx</h1>
+
+- [⏱ Agenda](#-agenda)
+    - [Introduction](#introduction)
+    - [Action Item Review](#action-item-review)
+    - [Issue Triage](#issue-triage)
+    - [Design](#design)
+    - [Managing New Features](#managing-new-features)
+    - [Eth Domain](#eth-domain)
+    - [Proposed Features Projects](#proposed-features-projects)
+      - [Forum](#forum)
+      - [Job Board](#job-board)
+      - [Learning Platform](#learning-platform)
+      - [Gitcoin](#gitcoin)
+    - [Social Media](#social-media)
+    - [Misc](#misc)
+    - [Closing](#closing)
+- [📝 Notes](#-notes)
+    - [📋 Attendees](#-attendees)
+    - [✅ Action items](#-action-items)
+    - [📹 Video recording](#-video-recording)
+
+# ⏱ Agenda
+
+### Introduction
+- Welcome
+- This this is a meeting about the website and the direction we want to take it.
+- Try to ID when things require outside input or clarification of the scope of the website group
+
+### Action Item Review
+
+1. ✅ Need someone to take hold of the Gitcoin POC [github issue #64](https://github.com/Developer-DAO/developer-dao/issues/64)
+2. Decision on if we should create a blog or post on an existing platform
+3. ✅ Create a repository for meeting minutes
+
+### Issue Triage
+- [Issues over a week since update](https://github.com/Developer-DAO/developer-dao/issues?q=is%3Aissue+is%3Aopen+updated%3A%3C2021-09-20) (Note the querystring for date of update)
+
+### Design
+- [Base Figma](https://www.figma.com/file/BBxYJrArJFOpND9c4OBWkY/D_D?node-id=37%3A3) has been created (thanks `@codingwithmanny#0205`)
+  - People can create their own copy in order to work on design(s)
+- Other larger topics were brought up in the previous notes
+  - Brand Guidelines
+  - Design as Bounty
+  - Design elements need to be better defined
+    - Explain how others can use design elements
+
+### Managing New Features
+- How to merge changes faster
+- Document those with rights (identify constraint)
+  - Github
+  - Vercel
+
+### Eth Domain
+- [Prior meeting][Developer DAO Website 2021-09-13]
+- Being worked outside of this group
+
+### Proposed Features Projects
+- `@codingwithmanny#0205` Project Codename Redlight Greenlight
+- `@codingwithmanny#0205` Project Codename Self Conscious Token
+- Vercel Analytics Access for all (most? some?)
+
+#### Forum
+- Has been topic of conversation on discord; sounds like the plan is to use existing but not official.
+- Pending an unexpected decision to host on the website, out of scope of this group
+
+#### Job Board
+- DAO2DAO to differentiate from existing offerings (Braintrust)
+- Clarity needed on [Pallet](https://pallet.xyz) as brought up by `@Parkerhendo#5828` [on discord](https://discord.com/channels/883478451850473483/883705562850807808/888886395572207706)
+
+#### Learning Platform
+- ?
+
+#### Gitcoin
+- [Issue in progress](https://github.com/Developer-DAO/developer-dao/issues/64), appears to be stuck on a question
+- Funding
+
+### Social Media
+- Should document who has what rights
+- Probably out of scope for website
+
+### Misc
+- Add contributing guide to the community repo
+
+### Closing
+
+# 📝 Notes
+
+### 📋 Attendees
+
+### ✅ Action items
+
+### Video Recording
+- TBD
+
+
+[Developer DAO Website 2021-09-13]: ./meetings/2021/20210913-website.md
+[Github Issues]: https://github.com/Developer-DAO/developer-dao/issues
