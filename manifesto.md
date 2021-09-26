@@ -4,7 +4,7 @@
 
 ### Describe the DAOs goals as explicitly as possible
 
-Developer DAO exists to accelerate the education an impact of a new wave of builders on Web3 through:
+Developer DAO exists to accelerate the education and impact of a new wave of builders on Web3 through:
 
 - Education
 - Community building, networking & collaboration
