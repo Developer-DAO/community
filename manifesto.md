@@ -1,156 +1,147 @@
-# Simple DAO Canvas
+# Developer DAO
 
 ## Core
 
-### Name your DAO
+### Describe the DAOs goals as explicitly as possible
 
-DeveloperDAO
+Developer DAO exists to accelerate the education an impact of a new wave of builders on Web3 through:
 
-### Describe the DAO’s goals as explicitly as possible
+- Education
+- Community building, networking & collaboration
+- Building and supporting public goods
 
-> Take a moment to condense it into a clear and concise sentence.
+**N.B.** Assuming value creation will be a natural result of delivering on the above.
 
-### Top 3 expected principles of this organization
+\*Depending on the direction the community ultimately takes can picture ending up as either [Service DAO](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw#service-daos) or [Social DAO](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw#social-daos), or maybe even something entirely new.
 
-- TBD
+### Top 3 expected principals of this organisation
 
-- TBD
+- **Transparency** (open source everything, conversations in public, document and share journey)
+- **Diversity & Inclusion** (seek to foster as diverse a membership as possible and support everyone to contribute)
+- **Responsibility** (as a self-governed community we rely on members to be personal responsible for their actions and commitments to the community)
 
-- TBD
+### Why are we deploying as a DAO
 
-### Which decisions/systems can the DAO control?
+- Organisation/coordination & Governance at scale
+- Value capture & rewarding contributions
 
-> Budget allocation? hiring? investments? all of the above?
+### Big picture impact of the DAO
 
-### What problem do you seek to solve by deploying as a DAO?
+By fostering an environment that supports achieving our mission/values/goals, Developer DAO can become the go to community for on-boarding existing Web2 engineering talent into Web3 and a platform for launching new ideas.
 
-> What will using a DAO enable that would not be possible with a traditional entity or platform?
+### What do we need to achieve our goals?
 
-### How would the world change if this DAO is successful?
+Now:
 
-> Think big!
+- Consensus on mission, values and goals.
+- Consistent cadence for coordination and collaboration.
+- Establish a core team responsible for executing the mission of the DAO on an day-to-day/ongoing basis
+- System for recognising and rewarding collaboration (outside of any financial rewards).
+- Process/framework for decentralised decision making based on our mission/values and goals.
 
-### What is needed to achieve your goals with this DAO?
+Future:
 
-> Try to focus on the things you want to happen, not any specific tool or framework.
-
-<br />
+- Value capture and fair distribution of ownership
+- Growth of a treasury/funding to support community projects
 
 ## Community
 
-### What is the project’s backstory?
+## Project backstory
 
-> Why are you here? Why are you building a DAO? Why should people care? People love stories!
+The project was started as an experiment by [Nader Dabit](https://twitter.com/dabit3) to see what can be achieved when we bring together talented and like-minded people who are interested in learning about and building on Web3.
 
-### Communication platforms
+Since launch, over 3000 NFT have been sold and over 900 of them have joined the discord server.
 
-> Define the “watering holes” of your community and their purpose.
+## Communication platforms
 
-- **Daily chatting:** _Discord, Telegram, etc.._
+- **Conversations/Brainstorms:** _Discord_
+- **conform discussion/Proposals/Consensus building:** _Discourse_
+- **Knowledge repository:** _GitHub, developerdao.com / docs, Notion?, newsletter, Blog (multiple for different content types?), YouTube/similar_
 
-- **Knowledge repository:** _GitHub, blog, newsletters, etc.._
+### Communication rhythms
 
-### Community’s rhythms and rituals:
-
-> Meetups, videocalls, blogposts, podcasts, AMAs with members, etc..
-
-- **Weekly:** _Ex: a communty call or something?_
-
-- **Monthly:** _Ex: a regular time to make budgetting proposals?_
+- **Weekly:** project/team/guild calls, Community call, Core team meeting
+- **Monthly:** Town Hall
+- **Quartely:** Seaons round-up / launch (replaces months town hall)
 
 ### Who is responsible?
 
-> Who are the people or organizations responsible and who keeps the pulse of the rituals.
+- **Core team:** responsible for executing the mission of the DAO on an day-to-day/ongoing basis (organisation, admin, documentation, communication, shepparding governance processes). Must accept minimum commitment (TBD) to ensure smooth running of the DAO.
+- **Team/Guilds/Project leads:** TBD
+- **Contributors/Resource pool:** TBD
 
-### Member journey
+## Member journey
 
-#### Describe the new user onboarding process
+### Describe the new user on-boarding process
 
-> How do people discover and join your DAO?
+To start, the sole way of joining the community is by minting one of the D4R genesis NFTs. Any holder can then access our private discourse server and begin a simple on-boarding process to assign themselves a skill role.
 
-#### How do new users catch up?
+We acknowledge this could be more inclusive given the associated gas fee however we believe it is best solution as this time to ensure members have "skin-in-the-game".
 
-> Getting started page, calls to action, newsletter, etc..
+In the future we will review alternate routes into the DAO, potentially including:
 
-#### How do you keep users engaged?
+- Bounties
+- Time bound access via other NFTs
+- Apprenticeship / grants
 
-> Why should people stick around after discovering your DAO?
+### How can new users catch up?
 
-#### How does a user leave? Why might they do so?
+- Start with our [`#on-boarding`](https://discord.gg/dp3K6xea) channel in discord
+- This document when it's finished / other docs we need to make
+- Read through town hall and project meetings in [Community repo](https://github.com/Developer-DAO/community).
+- Join open project and community calls (see [calendar](https://calendar.google.com/calendar/u/0/embed?src=developerdao1@gmail.com))
+- Join the conversation/begin contributing.
 
-> Both good and bad reasons.
+### How do you keep new users engaged?
 
-<br />
+_Not very well defined at the moment and we're relying heavily on individual passion and belief in the opportunity to create something_
+
+Potential easy wins:
+
+- Recognising contributors with defined roles
+- POAP NFTs for attending meetings
+- Acknowledging the contributions publicly community events
+- Actively support each other via:
+  - Help with learning
+  - Promoting each others work
+
+Future:
+
+- Tracking contributions and rewarding with some representation of value, most likely in the form of a token ($DBUCKS) that corresponds to voting rights in organisation
+
+### How does a user leave?
+
+_Skipping for now_
 
 ## Governance elements
 
-### Key performance indicators
-
-> What are you optimizing for?
-
-- \# or % active users (per week)
-
-- \# of proposals made/passed (per week)
-
-- Any other concrete outputs you're looking for?
-
-### Reflect on these governance polarities
-
-- Global <> the organization’s physical infrastructure <> Local
-
-- Decentralized <> how distributed amongst people is its decision making <> Centralized
-
-### Caps and global constraints
-
-> Maximum total token holdings? Maximum burn rate of funds? What are users not allowed to do?
-
-### Common proposals
-
-> What are the decisions the DAO takes on a daily basis and are not considered critical?
-
-### Critical proposals
-
-> What are the critical decisions that the DAO can take that need a high degree of consensus?
-
-### Legal strategy
-
-> How does the DAO negotiate it’s legitimacy with the legacy legal system?
-
-### Doubts and concerns on the parameters
-
-> Questions, comments, and concerns go here.
-
-<br />
-
-## Stakeholder Analysis
-
 ### From the users’ point of view, what is the DAO’s primary objective?
 
-> Should be one sentence or less.
+Provide an environment for learning, collaboration and shared value creation.
 
 ### What connects your different user personas?
 
-> They might share goals, ambitions, ideology, or just the same office. What is it?
+Passion for technology and belief in the potential opportunities for a better world (and career) offered by Web3.
 
 ### How do users coordinate strategy, planning and direction?
 
-> Where/how does the community coordinate so that the DAO can operate in a peer to peer way?
+Conversations → brainstorming → proposals → consensus → execution
+
+Conversations + Brainstorming (Discord)
+Proposals + consensus (Discourse/Snapshot)
+Execution (Project Teams/Guilds)
 
 ### How can users leverage participation for individual benefit?
 
-> What do people get out of the DAO? Connecting their needs/desires to the collective process is important to keep your users engaged.
+Through supporting each others learning and collaborating on DAO of personal projects, we have the opportunity to grow both as individuals and a collective. Seek support from the community for elevate your work to a wider audience.
+
+As the community grows so will our ability to do these things and so the cycle continues.
 
 ### Describe your user personas:
 
-> Think about their age, lifestyle, and goals.
-
-- Persona 1
-
-- Persona 2
-
-- Persona 3
-
-<br />
+- Experienced Web2 talent (all ages/levels), excited by the opportunities and innovation in Web3 looking to learn, share knowledge, build network, collaborate, get job in Web3
+- Experience Web3 talent excited to share their knowledge, increase their network and find collaborators/collaborations opportunities.
+- New talent, either at an early stage in their career or seeking a career change, looking for learn about Web3, get the opportunity to work on real projects, build a network and land a job in web3.
 
 ## Actors
 
@@ -158,32 +149,36 @@ DeveloperDAO
 
 > What do you want your DAO to do?
 
-- Manage assets
+_I think it is very early to be getting to specific however some ideas:_
 
-- Create community votes
-
-- Curate content
-
-- Create a marketplace
-
-- etc..
+- Provide framework for organisation/collaboration/decision making in a large group.
+- Curate content to help wider community
+- Support projects
 
 ### Ideal proposal types (brainstorm)
 
-> These types will help determine who gets tokens and how.
-
-Budget / funding:
-
-- fundraising
-
-- one off proposals
-
-- monthly budgeting
-
-- etc...
+> These types will help determine who gets tokens and how
 
 ### If you plan on managing or allocating capital who are the funders? Why would they fund your DAO?
 
 > Is it top down (grants)? Bottom up (Moloch)? Do stakeholders pay subscription (membership dues)? Etc..
 
-<br />
+Options to discuss:
+
+- **Grants**
+
+Lots of money available from big players in the Web3 ecosystem for building public goods, writing content etc.
+
+- **Outside funding** (SeedClub, Traditional VCs)
+
+Ecosytem forming for DAO's investing in other DAOs. Essentially taking a bet on the people involved and their stated mission/values/goals.
+
+- **Inside funding**
+
+Provide opportunity for community members to allocate funding to the DAO as the believe in it (we need to be tracked for future allocation/rewards)
+
+- **Bounties**
+
+Companies offering bounties for work they do not have the talent to do themselves.
+
+- **On-chain revenue** (i.e. NFT sales)
