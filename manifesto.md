@@ -8,7 +8,7 @@ Developer DAO exists to accelerate the education and impact of a new wave of bui
 
 - Education
 - Community building, networking & collaboration
-- Building and supporting public goods
+- Building and supporting public(?) goods
 
 **N.B.** Assuming value creation will be a natural result of delivering on the above.
 
