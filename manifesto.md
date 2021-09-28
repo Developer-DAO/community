@@ -153,6 +153,61 @@ _Skipping for now_
 
 ## Governance elements
 
+### Key performance indicators
+
+> What are you optimizing for?
+
+- \# or % active users (per week)
+
+- \# of proposals made/passed (per week) _(Not sure about this as a metric tbh)_
+
+- Reach (Twitter, blog content, etc.)
+
+-
+
+- Any other concrete outputs you're looking for?
+
+### Reflect on these governance polarities
+
+- Global <> the organization’s physical infrastructure <> Local
+
+Global + remote, no physical infrastructure or location (timezone) requirement to be part the community HOWEVER aknowledge the following two points:
+
+- Current barrier to entry for minting a genesis NFT is not inclusive for all demographcis
+- As current distribution of memebrs is largely EU/NA general flow of acitivity happens on these time zones rather than say Asia/Australi
+
+- Decentralized <> how distributed amongst people is its decision making <> Centralized
+
+Attempted to be ver decentralised to begin with but very challenging to organise so suggest is to become more centralised now (core team, leadership) so we can determine (input from and OK'd by community) mission/values/goals and clear ownership and repsonsibilties for achieving/working towards them.
+
+Plan would be to move to true decentralised decision making as far as possible but not to rush this.
+
+**NB - ** I'm leaving the rest of this section empty for now as not sure we're in a position to begin determining these yet
+
+### Caps and global constraints
+
+> Maximum total token holdings? Maximum burn rate of funds? What are users not allowed to do?
+
+### Common proposals
+
+> What are the decisions the DAO takes on a daily basis and are not considered critical?
+
+### Critical proposals
+
+> What are the critical decisions that the DAO can take that need a high degree of consensus?
+
+### Legal strategy
+
+> How does the DAO negotiate it’s legitimacy with the legacy legal system?
+
+### Doubts and concerns on the parameters
+
+> Questions, comments, and concerns go here.
+
+<br />
+
+## Stakeholder Analysis
+
 ### From the users’ point of view, what is the DAO’s primary objective?
 
 Provide an environment for learning, collaboration and shared value creation.
