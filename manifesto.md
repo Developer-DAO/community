@@ -12,7 +12,7 @@ Developer DAO exists to accelerate the education and impact of a new wave of bui
 
 **N.B.** Assuming value creation will be a natural result of delivering on the above.
 
-\*Depending on the direction the community ultimately takes can picture ending up as either [Service DAO](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw#service-daos) or [Social DAO](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw#social-daos), or maybe even something entirely new.
+_Depending on the direction the community ultimately takes can picture ending up as either one, or a mixture of, a [Service DAO](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw#service-daos) or [Social DAO](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw#social-daos), or maybe even something entirely new._
 
 ### Top 3 expected principals of this organisation
 
@@ -29,6 +29,14 @@ Developer DAO exists to accelerate the education and impact of a new wave of bui
 
 By fostering an environment that supports achieving our mission/values/goals, Developer DAO can become the go to community for on-boarding existing Web2 engineering talent into Web3 and a platform for launching new ideas.
 
+Being a Developer DAO alumni should mean something. (Could we use NFT's to make level of contribution public and non-fungible?)
+
+Things to think ahout (might be narrow in scope of this but unsure):
+
+- Building a treasury to funding members projects
+- Being a go to resource for DAO's looking for engineering talent (in exchange for tokens/on-chain revenue)
+- Media DAO arm, documenting our journey, running events, brand partnerships
+
 ### What do we need to achieve our goals?
 
 Now:
@@ -43,6 +51,21 @@ Future:
 
 - Value capture and fair distribution of ownership
 - Growth of a treasury/funding to support community projects
+
+I've been picturing it like Bankless (other DAO's seasons). Something along the lines of the following:
+
+**Season 0**
+
+Season 0 (to end of October/November?)
+
+- Finalizing our mission statement/manifesto + publishing this
+- Coms/decision making flow and where each happens)
+- Org structure (team, roles)
+- How do we plan to recognise & reward contributions
+- Branding & V1 website (about, on-site minting, docs?, mission statement)
+- Focus for season 1
+
+**Season 1** (Decided by community)
 
 ## Community
 
@@ -62,13 +85,28 @@ Since launch, over 3000 NFT have been sold and over 900 of them have joined the 
 
 - **Weekly:** project/team/guild calls, Community call, Core team meeting
 - **Monthly:** Town Hall
-- **Quartely:** Seaons round-up / launch (replaces months town hall)
+- **Quartely:** Season round-up / launch (replaces months town hall, potentially held via twitter spaces
+- )
 
 ### Who is responsible?
 
-- **Core team:** responsible for executing the mission of the DAO on an day-to-day/ongoing basis (organisation, admin, documentation, communication, shepparding governance processes). Must accept minimum commitment (TBD) to ensure smooth running of the DAO.
-- **Team/Guilds/Project leads:** TBD
-- **Contributors/Resource pool:** TBD
+- **Core team:**
+
+The closest thing we have currently have to full-time employees. Responsible for executing the mission of the DAO on a day-to-day basis/week-by-week basis (communication, organisations, docs, shepparding governance processes). Must accept minimum commitment to ensure smooth running of DAO (i.e regular meetings, responsibility for specific area/domain)
+
+- **Team/Guilds/Project leads:**
+
+TBD
+
+- **Contributors/Resource pool:**
+
+Members actively invovled in contributing on an ad-hoc basis.
+
+_NEEDS THOUGHT_
+
+- **Community members:**
+
+The wider, more passive community. Critical for helping the DAO and grow and easy upwards mobiltiy through to other roles (above)
 
 ## Member journey
 
@@ -129,7 +167,7 @@ Conversations → brainstorming → proposals → consensus → execution
 
 Conversations + Brainstorming (Discord)
 Proposals + consensus (Discourse/Snapshot)
-Execution (Project Teams/Guilds)
+Execution (Project Teams/Guilds, Core Team, discord/github)
 
 ### How can users leverage participation for individual benefit?
 
@@ -139,8 +177,8 @@ As the community grows so will our ability to do these things and so the cycle c
 
 ### Describe your user personas:
 
-- Experienced Web2 talent (all ages/levels), excited by the opportunities and innovation in Web3 looking to learn, share knowledge, build network, collaborate, get job in Web3
-- Experience Web3 talent excited to share their knowledge, increase their network and find collaborators/collaborations opportunities.
+- Experienced Web2 talent (all level/demographics), excited by the opportunities and innovation in Web3 looking to learn, share knowledge, build network, collaborate, get job in Web3
+- Experience Web3 talent excited to share their knowledge, increase their network and find collaborators/collaborations.
 - New talent, either at an early stage in their career or seeking a career change, looking for learn about Web3, get the opportunity to work on real projects, build a network and land a job in web3.
 
 ## Actors
