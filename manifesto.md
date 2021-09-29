@@ -4,11 +4,14 @@
 
 ### Describe the DAOs goals as explicitly as possible
 
-Developer DAO exists to accelerate the education and impact of a new wave of builders on Web3 through:
+Developer DAO exists to accelerate the education and impact of a new wave of web3 builders through:
 
 - Education
-- Community building, networking & collaboration
-- Building and supporting public(?) goods
+- Events
+- Community building, networking, and collaboration
+- Building and supporting public goods
+- Helping developers to land jobs, grants, and gigs
+- Helping teams and protocols find developers
 
 **N.B.** Assuming value creation will be a natural result of delivering on the above.
 
@@ -17,21 +20,24 @@ _Depending on the direction the community ultimately takes can picture ending up
 ### Top 3 expected principals of this organisation
 
 - **Transparency** (open source everything, conversations in public, document and share journey)
-- **Diversity & Inclusion** (seek to foster as diverse a membership as possible and support everyone to contribute)
-- **Responsibility** (as a self-governed community we rely on members to be personal responsible for their actions and commitments to the community)
+- **Diversity and Inclusion** (seek to foster as diverse a membership as possible and support everyone to contribute)
+- **Responsibility** (as a self-governed community we rely on members to be personally responsible for their actions and commitments to the community)
 
 ### Why are we deploying as a DAO
 
-- Organisation/coordination & Governance at scale
-- Value capture & rewarding contributions
+- Organisation / coordination and Governance at scale
+- Value capture and rewarding / incentivizing contributions
+- To provide liquid community ownership
 
 ### Big picture impact of the DAO
 
-By fostering an environment that supports achieving our mission/values/goals, Developer DAO can become the go to community for on-boarding existing Web2 engineering talent into Web3 and a platform for launching new ideas.
+By fostering an environment that supports achieving our mission/values/goals, Developer DAO can become the go to community for developers looking to meet and build relationships with other devs, for on-boarding existing web2 engineering talent into web3, for developer jobs, and a platform for launching and collaborating on new ideas.
+
+Developer DAO enables shared ownership of and for a community of developers who are at the forefront of building the future of the internet.
 
 Being a Developer DAO alumni should mean something. (Could we use NFT's to make level of contribution public and non-fungible?)
 
-Things to think ahout (might be narrow in scope of this but unsure):
+Things to think about (might be narrow in scope of this but unsure):
 
 - Building a treasury to funding members projects
 - Being a go to resource for DAO's looking for engineering talent (in exchange for tokens/on-chain revenue)
@@ -61,8 +67,9 @@ Season 0 (to end of October/November?)
 - Finalizing our mission statement/manifesto + publishing this
 - Coms/decision making flow and where each happens)
 - Org structure (team, roles)
-- How do we plan to recognise & reward contributions
-- Branding & V1 website (about, on-site minting, docs?, mission statement)
+- How do we plan to recognise and reward contributions
+- Branding and V1 website (about, on-site minting, docs?, mission statement)
+- Token allocation and distribution
 - Focus for season 1
 
 **Season 1** (Decided by community)
@@ -72,6 +79,8 @@ Season 0 (to end of October/November?)
 ## Project backstory
 
 The project was started as an experiment by [Nader Dabit](https://twitter.com/dabit3) to see what can be achieved when we bring together talented and like-minded people who are interested in learning about and building on Web3.
+
+Developer DAO draws inpiration from other creator-focused DAOs like [Friends with Benefits](https://twitter.com/fwbtweets), 
 
 Since launch, over 3000 NFT have been sold and over 900 of them have joined the discord server.
 
