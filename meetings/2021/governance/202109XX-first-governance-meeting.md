@@ -13,4 +13,4 @@
 - 5 minutes: wrap-up + assignments/next steps
 
 ## Resources
-- ./simple-governance-on-snapshot.md
+- [./simple-governance-on-snapshot.md](./simple-governance-on-snapshot.md)
