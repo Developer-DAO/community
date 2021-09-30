@@ -1,0 +1,6 @@
+{
+  "name": "@developer-dao/community",
+  "repository": "git@github.com:developer-dao/community.git",
+  "license": "MIT",
+  "private": true
+}
