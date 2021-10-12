@@ -32,9 +32,9 @@ The knowledge base should provide:
 - Examples
 
 The knowledge base **could** be broken down by:
-- Developer level (new developer, web3 beginner, intermediate, advanced)
+- Developer Level (new developer, web3 beginner, intermediate, advanced)
 - Technology (Ethereum, Solana, Polkadot, etc.)
-- Use Case (DeFi, Art, Learning, Productivity, etc.)
+- Use Case (DAOs, DeFi, Art, Learning, Productivity, etc.)
 - Learning medium (video, article, interactive course, etc.)
 
 The knowldge base **should** be:
