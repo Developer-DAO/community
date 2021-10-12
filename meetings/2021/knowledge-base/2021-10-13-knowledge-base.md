@@ -41,8 +41,9 @@ The knowldge base **should** be:
 - Comprehensive (?)
 - Concise (?)
 
-To discuss:
+### Outstanding questions:
 - How do we prioritize / sort content?
+- How do we support questions (and answers) from the community?
 - How do we promote DDAO Member (or DAO) content? (Newsletters, YouTube Videos, etc.)
 - Do we build our own interactive courses? (is that a separate discussion)?
 
@@ -66,7 +67,7 @@ Knowledge Base is currently in the form of markdown on a GitHub repo.
 - Option 1: Create a GitHub pages or alternative to use repo as the front-end
 - Option 2: Design and build our own front-end integration (perhaps directly on the developerdao.com repo)
 
-## Outstanding Questions
+### Roles / Contributors
 TBD
 
 ## Next Steps
