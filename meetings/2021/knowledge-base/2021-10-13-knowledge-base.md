@@ -147,4 +147,4 @@ TBD until platform has been selected, since curated resouces will be dependent o
 - `@with-heart`
 
 ## Audio Recording
-- `@kempsterrrr.eth` to provide audio recording link
+- Not available (MEE6 bot crash!)
