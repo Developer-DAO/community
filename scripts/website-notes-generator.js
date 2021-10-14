@@ -56,7 +56,7 @@ outputFile.write( `# Developer DAO Website ${longDate}
 
 #### Issues
 
-- [Open Issues Last Updated Before ${dateArg}](https://github.com/Developer-DAO/developer-dao/issues?q=is%3Aissue+is%3Aopen+updated%3A%${longDate})
+- [Open Issues Last Updated Before ${dateArg}](https://github.com/Developer-DAO/developer-dao/issues?q=is%3Aissue+is%3Aopen+updated%3A<${longDate})
 - [Open issues](https://github.com/Developer-DAO/developer-dao/issues)
 
 #### PRs
