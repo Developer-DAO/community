@@ -45,8 +45,7 @@ outputFile.write( `# Developer DAO Website ${longDate}
 ### Introduction
 
 - Welcome
-- Narrow discussion around specifically the website as governance should be a
-  larger conversation had in another meeting
+- Narrow discussion around specifically the website
 
 ### Action Item Review
 
