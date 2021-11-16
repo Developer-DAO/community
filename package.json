@@ -1,0 +1,17 @@
+{
+  "name": "@developer-dao/community",
+  "repository": "git@github.com:developer-dao/community.git",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": ">=6",
+    "lint-staged": ">=10",
+    "prettier": "^2.4.1"
+  },
+  "lint-staged": {
+    "*.{json,md}": "prettier --write"
+  }
+}
