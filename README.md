@@ -2,6 +2,6 @@
 
 A repository for storing community-related information like meeting notes.
 
-- [Governance Meetings](./meetings/2021/governance)
-- [Website Meetings](./meetings/2021/website)
 - [Town Halls](./town-hall)
+- [Website Meetings](./meetings/2021/website)
+- [Governance Guild Meetings](./meetings/2021/governance-guild)
