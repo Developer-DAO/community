@@ -10,7 +10,7 @@
 ## Agenda 
 - 10 min: **Introduction to DevDAO + Governance Guild**
     - Including current governance review + new token
-- 15 min: **Admin Conversation
+- 15 min: **Admin Conversation**
     - Channel setup
     - Tokenomics project moving to Governance Guild
     - Guild needs
