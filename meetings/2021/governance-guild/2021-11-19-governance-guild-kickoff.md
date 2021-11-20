@@ -15,11 +15,10 @@
 - 10 min: **Introduction to DevDAO + Governance Guild**
     - Including current governance review + new token (`$VIBES`, `$D4R`, `$DEVS`, `$BUIDL`, have been floated as ideas for token)
         - Governance is very important for the success of Developer DAO
-            - Tokenomics, contributing reward, etc.
-            - Currently we're using snapshot for voting
+            - Discussing tokenomics, contributing reward, etc.
+            - We're currently using snapshot for voting
                 - DAO token is voting token for now
-                - 600 votes for Season 0 proposal
-                - Can look into Quadratic & Ranked voting options
+                - We had 600 votes for Season 0 proposal! ~14% participation of active hodlers
         - [Developer DAO Season 0](https://forum.developerdao.com/t/p3-developer-dao-season-0/219)
             - Everyone in the DAO participates in the governance layer
         - There is no perfect way to move forward with current token - will look at a Governance Token
@@ -37,9 +36,9 @@
                 - As guilds work together, we need to have a system setup so that effective communication is possible
         - Someone to help with Governance information on Notion with `nathanng.eth`
     - Meeting schedule
-        - how often do we want to meet?
-            - bi-weekly offsetting the D_D Town Hall
-            - alternating timezones weekly
+        - How often do we want to meet?
+            - Bi-weekly offsetting the D_D Town Hall
+            - Alternating timezones weekly
 - 15 min: **Season 0 Objectives**
     - Refine process for making proposals in the DAO, including clarity on what needs to be a proposal, threshold for a proposal to be made, and level of consensus required for different types of proposals.
         - What will need to be voted on and what will not?
@@ -65,7 +64,7 @@
         - [Coordinape](https://coordinape.com/) - will work with Community Guild for this project - power goes into the users hand
             - Can help facilitate cross-guild and multi-member collaboration
             - Also look into [SourceCred](https://sourcecred.io)
-            - Should be cautious of implementing tooling before we evaluate our options
+            - Should be cautious of implementing tooling before we fully evaluate our options
         - Collect information about decentralized governance
     - Improve documentation around governance process & tooling use.
 - 20 min: **Overflow, General Discussion, QA**
