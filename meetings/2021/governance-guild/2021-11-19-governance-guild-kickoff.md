@@ -1,4 +1,4 @@
-# Governance Guild Kickoff Meeting - Developers DAO
+# Governance Guild Kickoff Meeting - Developer DAO
 
 **Duration:** 60-min
 
